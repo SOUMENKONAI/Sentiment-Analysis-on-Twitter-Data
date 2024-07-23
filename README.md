@@ -4,6 +4,6 @@
 
 #Minitab visuals are used for some part of data visualizations and EDA
 
-#new_dff.csv is our dataset used in the analysis
+#Twitter Data.csv is our dataset used in the analysis
 
-#Final Report Group Omega is our Project report in PDF format
+#Final Report is our Project report in PDF format
